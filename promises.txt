@@ -1,0 +1,10 @@
+ 1) Why are promises better than callbacks? 
+
+ Ans - Callbacks dont have resolve and reject blocks, but on the other hand promises have that. So beacuse of this prmoises are better than callbacks
+
+
+2) Write a short answer on callback vs promises.
+
+callbacks are called as an argument to another function.
+
+Promises are called as return objects.
